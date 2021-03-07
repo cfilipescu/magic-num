@@ -6,7 +6,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-magic-num = { git = "https://github.com/cfilipescu/magic-num.git" }
+magic-num = { git = "https://github.com/cfilipescu/magic-num.git", branch = "main"}
 ```
 
 Example how to use in your code:
